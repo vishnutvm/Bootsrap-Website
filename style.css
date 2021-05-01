@@ -1,0 +1,8 @@
+.sowcase{
+    background: url(img/mobi-landing.png) no-repeat center top;
+    width: 100%;
+    min-height: 92vh;
+}
+.heading{
+    font-weight: bold;
+}
